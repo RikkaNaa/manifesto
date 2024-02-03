@@ -1276,4 +1276,5 @@
   <include name="snippets/lineage.xml" />
   <include name="snippets/caf.xml" />
   <include name="snippets/diva.xml" />
+  <include name="snippets/lineage-caf.xml" />
 </manifest>
